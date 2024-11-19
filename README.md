@@ -51,6 +51,21 @@
 ------
 
 ### Решение 1
+* Задал необходимые манифесты применил их.
+
+![Screenshot_1](https://github.com/user-attachments/assets/551574bf-c377-4eec-9d59-7cc01ca74caf)
+
+![Screenshot_2](https://github.com/user-attachments/assets/689d8e17-bc00-4458-bd07-c0230e28192a)
+
+ - frontend из образа nginx с количеством реплик 3 шт.
+ - backend из образа multitool.
+
+![Screenshot_3](https://github.com/user-attachments/assets/4502ffed-32ef-4b7e-958b-656a0572ca97)
+
+
+
+  
+
 
 ---
 
