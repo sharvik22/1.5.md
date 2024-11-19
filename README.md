@@ -93,5 +93,16 @@
 
 ![image](https://github.com/user-attachments/assets/05eb46c1-ae1f-4f45-9fda-5ecf4fe42c4a)
 
+# Проверка
+
+* открывался frontend по IP. 
+
+![image](https://github.com/user-attachments/assets/f5d67b95-6290-4fc5-bb79-89c5a4ad1090)
+
+* а при добавлении /api - backend
+
+
+
+
 
 ---
