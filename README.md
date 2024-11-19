@@ -63,10 +63,19 @@
 
 ![Screenshot_3](https://github.com/user-attachments/assets/4502ffed-32ef-4b7e-958b-656a0572ca97)
 
+* добавил Service, которые обеспечат доступ к обоим приложениям внутри кластера.
 
+# Проверка доступности frontend из backend
 
-  
+* Подключился к ноде backend, сделал запрос на frontend
 
+![Screenshot_5](https://github.com/user-attachments/assets/110ddcd0-620e-48d3-88a4-07bea9b76750)
+
+![Screenshot_6](https://github.com/user-attachments/assets/10d37fb0-21dc-4a2e-9bba-e463282b5ef3)
+
+* и на оборот, подключился к ноде frontend и проверил доступ к backend
+
+![Screenshot_7](https://github.com/user-attachments/assets/13b5bb75-7449-41a5-84cc-64af58e0a371)
 
 ---
 
