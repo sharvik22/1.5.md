@@ -91,18 +91,17 @@
 
 * проверил, что создан Ingress и работает. 
 
-![image](https://github.com/user-attachments/assets/05eb46c1-ae1f-4f45-9fda-5ecf4fe42c4a)
+![image](https://github.com/user-attachments/assets/f2b4494e-6bd4-44fa-b4e7-d5c941734468)
+
 
 # Проверка
 
-* открывался frontend по IP. 
+* открывался frontend 
 
-![image](https://github.com/user-attachments/assets/f5d67b95-6290-4fc5-bb79-89c5a4ad1090)
+![image](https://github.com/user-attachments/assets/c5058860-8121-42a6-990d-bd5236349046)
 
 * а при добавлении /api - backend
 
-
-
-
+![image](https://github.com/user-attachments/assets/47935cd6-ec51-49a4-8f49-f2e53be11b43)
 
 ---
