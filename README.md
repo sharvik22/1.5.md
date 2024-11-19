@@ -96,7 +96,7 @@
 
 # Проверка
 
-* открывался frontend 
+* curl frontend 
 
 ![image](https://github.com/user-attachments/assets/c5058860-8121-42a6-990d-bd5236349046)
 
