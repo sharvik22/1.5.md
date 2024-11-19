@@ -81,9 +81,17 @@
 
 ### Решение 2
 
-* Включил Ingress-контроллера в MicroK8S
+* Включил Ingress-контроллера в MicroK8S.
 
 ![image](https://github.com/user-attachments/assets/518b1c4a-1e96-4314-988c-22e8ba90421f)
+
+* Создал Ingress, применил его.
+
+![image](https://github.com/user-attachments/assets/dded8b20-21b4-481d-a9fa-bf99b7e192e0)
+
+* проверил, что создан Ingress и работает. 
+
+![image](https://github.com/user-attachments/assets/05eb46c1-ae1f-4f45-9fda-5ecf4fe42c4a)
 
 
 ---
